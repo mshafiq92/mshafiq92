@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-<!--
 # Hi there, I'm Muhammad Shafiq 👋
 
 ## 🚀 About Me
+
 I'm a passionate Software Engineer and DevOps enthusiast focused on building scalable, reliable, and efficient solutions. With a strong background in **MERN stack development**, **DevOps automation**, and **cloud infrastructure**, I love turning complex challenges into simple, elegant systems.
 
-- 🔭 Currently working on DevOps automation and Kubernetes projects  
-- 🌱 Constantly learning and improving skills in CI/CD, Docker, Terraform, and Kubernetes  
-- 💬 Ask me about JavaScript, Node.js, React, Docker, Linux, and Terraform  
-- ⚡ Fun fact: I enjoy solving complex problems and optimizing workflows for maximum efficiency  
+- 🔭 Currently working on DevOps automation and Kubernetes projects
+- 🌱 Constantly learning and improving skills in CI/CD, Docker, Terraform, and Kubernetes
+- 💬 Ask me about JavaScript, Node.js, React, Docker, Linux, and Terraform
+- ⚡ Fun fact: I enjoy solving complex problems and optimizing workflows for maximum efficiency
 
 ## 🛠 Technologies & Tools
 
@@ -25,9 +25,9 @@ I'm a passionate Software Engineer and DevOps enthusiast focused on building sca
 
 ## 📫 How to Reach Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [linkedin.com/in/mshafiq92](https://linkedin.com/in/mshafiq92)  
-- Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)  
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [linkedin.com/in/mshafiq92](https://linkedin.com/in/mshafiq92)
+- Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
 
 ## 📈 GitHub Stats
 
@@ -36,4 +36,4 @@ I'm a passionate Software Engineer and DevOps enthusiast focused on building sca
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+_“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
